@@ -9,9 +9,7 @@ I'm Iftikhar Rasha, My expertise are in resolving design problems, building smar
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iftikharrasha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iftikharrasha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iftikharrasha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iftikhar.rasha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iftikharrasha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://iftikharrasha.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/iftikharrasha)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iftikharrasha&show_icons=true&theme=bear)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftikharrasha&show_icons=true&theme=synthwave&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftikharrasha&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iftikharrasha&show_icons=true&theme=bear)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftikharrasha&show_icons=true&theme=synthwave&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
