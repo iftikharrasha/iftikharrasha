@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://i.ibb.co/hyktkHf/second-21.png)
+
 I'm Iftikhar Rasha, My expertise are in resolving design problems, building smart user interfaces and interactions, developing rich web applications and seamless web experience across all the devices. I'm a coder, thinker and an abstract designer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftikharrasha)](https://github.com/anuraghazra/github-readme-stats)
