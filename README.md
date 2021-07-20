@@ -12,6 +12,7 @@ I'm Iftikhar Rasha, My expertise are in resolving design problems, building smar
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftikharrasha&show_icons=true&theme=midnight-purple&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftikharrasha&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iftikharrasha&show_icons=true&theme=midnight-purple)  
 
 <!--
 **iftikharrasha/iftikharrasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
